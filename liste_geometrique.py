@@ -1,0 +1,2 @@
+def isGeometric(liste):
+    pass
