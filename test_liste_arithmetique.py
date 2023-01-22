@@ -18,4 +18,4 @@ def test_isArithmetic():
         print("Test {} not passed".format(i))
         print("KO")
 
-test_isGeometric();
+test_isArithmetic();
