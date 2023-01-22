@@ -1,0 +1,2 @@
+def isArithmetic(liste):
+    pass
